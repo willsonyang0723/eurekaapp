@@ -1,2 +1,2 @@
-使用该插件需引入pom
-确认spring能扫描com.eurekaapp包
+1.引入jar
+2.扫描com.eurekaapp包
